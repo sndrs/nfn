@@ -389,7 +389,7 @@
     "you're":"yew",
     "you've":"yew're"
   },
-  "generic":{
+  "transforms":{
     "ing\\b":"un",
     "(\\w)(one)\\b":"$1ewn",
     "own\\b":"ewn",
