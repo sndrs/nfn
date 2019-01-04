@@ -390,10 +390,10 @@
     "you've":"yew're"
   },
   "transforms":{
-    "ing\\b":"un",
+    "ing([s]?)\\b":"un$1",
     "(\\w)(one)\\b":"$1ewn",
-    "own\\b":"ewn",
+    "own([s]?)\\b":"ewn$1",
     "ose\\b":"ews",
-    "iew\\b":"ew"
+    "iew([s]?)\\b":"ew$1"
   }
 }
