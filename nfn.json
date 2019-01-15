@@ -258,6 +258,7 @@
         "ose\\b": "ews",
         "iew([s]?)\\b": "ew$1",
         "\\B(ssion|tion)a\\B": "shune",
-        "\\B(ssion|tion)\\b": "shun"
+        "\\B(ssion|tion)\\b": "shun",
+        "(cally)\\b": "cly"
     }
 }
