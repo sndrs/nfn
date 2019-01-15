@@ -256,6 +256,8 @@
         "(\\w)(one)\\b": "$1ewn",
         "own([s]?)\\b": "ewn$1",
         "ose\\b": "ews",
-        "iew([s]?)\\b": "ew$1"
+        "iew([s]?)\\b": "ew$1",
+        "\\B(ssion|tion)a\\B": "shne",
+        "\\B(ssion|tion)\\b": "shn"
     }
 }
