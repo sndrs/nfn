@@ -232,6 +232,7 @@
         "Wander": "Lollop",
         "Want a": "Watta",
         "Was": "Wuz",
+        "\\bWas not\\b|\\bWasn['’]t\\b": "Wunt",
         "Weep": "Blar",
         "Were": "Wass",
         "What['’]s": "Wass",
